@@ -29,7 +29,7 @@ Selected Publications 📑
   Fusang Zhang, **<u>Zhi Wang</u>**, Beihong Jin, Jie Xiong, Daqing Zhang.
   <br>
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
-
+  <br>
   <details style="cursor: pointer;">
     <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
     <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
