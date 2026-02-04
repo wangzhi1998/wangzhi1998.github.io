@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhi Wang's Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,7 @@ redirect_from:
 
 Bio
 ======
+I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. Beihong Jin. I received my B.S. degree from Beijing Jiaotong University in 2020.
 
 
 
