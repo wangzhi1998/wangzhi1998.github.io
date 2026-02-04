@@ -117,6 +117,20 @@ Selected Publications 📑
       Existing contactless solutions on sleep respiration monitoring are either performed in controlled environments, having poor usability in practical scenarios, or only provide coarse-grained respiration rates, being unable to accurately detect abnormal events of patients. In this paper, we propose Respnea, a non-invasive sleep respiration monitoring system using an impulse-radio ultra-wideband (IR-UWB) radar. Particularly, we propose a profiling algorithm, which can locate the sleep positions in non-controlled environments and identify different states of subjects. Further, we construct a deep learning model which adopts a multi-headed self-attention and learn the patterns implicit in the respiration signal so as to distinguish sleep respiration events at a granularity of seconds. We conduct experiments on data collected from patients with sleep disorders and healthy subjects. The experimental results show that Respnea achieves a low error (less than 0.27 bpm) in respiration rate estimation and reaches the accuracy of 88.89% diagnosing the severity of Sleep Apnea-Hypopnea Syndrome.
     </div>
   </details>
+
+- <span style="background-color: #2e7d32; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">Globecom '21</span>
+  [Exploiting passive beamforming of smart speakers to monitor human heartbeat in real time](https://ieeexplore.ieee.org/abstract/document/9685922/)
+  <br>
+  **<u>Zhi Wang</u>**, Fusang Zhang, Siheng Li, Beihong Jin.
+  <br>
+  *IEEE Global Communications Conference (GLOBECOM)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #2e7d32; font-size: 0.95em; color: #444;">
+      Currently, cardiac diseases have become one of the biggest health concerns. Existing heartbeat monitoring methods either require dedicated intrusive devices (e.g., ECG devices) that suffer high costs or leverage video camera analyses that are light-sensitive. In this paper, leveraging the acoustic signals sent by a speaker and received by a microphone array, we develop a prototype system to achieve the contactless and low-cost heartbeat monitoring. In particular, while we exploit the passive beamforming to enhance the user's heartbeat signal, we design a filtering method in frequency domain to remove the line-of-sight (LoS) impact and retain the target-reflected signals, and propose a wideband time-delay method to estimate the direction of arrival of target-reflected signal. Thus, our prototype is able to robustly estimate the human heartbeat and push the limit of acoustic sensing range. The experimental results show that our prototype achieves a heart rate monitoring at 1.7 m with the estimation error of 0.5 bpm, which is comparable to ECG or other contact-based solutions.
+    </div>
+  </details>
   
 - <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '21</span>
   [Your Smart Speaker Can" Hear" Your Heartbeat!](https://dl.acm.org/doi/abs/10.1145/3432237)
