@@ -10,7 +10,7 @@ redirect_from:
 
 Bio 👨‍🎓
 ======
-I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. Beihong Jin. I received my B.S. degree from Beijing Jiaotong University in 2020.
+I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. Beihong Jin and Prof. Fusang Zhang. I received my B.S. degree from Beijing Jiaotong University in 2020.
 
 
 
@@ -21,6 +21,33 @@ News 🔥
 
 Selected Publications 📑
 ======
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '25</span>
+  [RF-AE: Single-site Arterial Elasticity Estimation Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3729460)
+  <br>
+  **<u>Zhi Wang</u>**, Beihong Jin, Yuhui Chen, Fusang Zhang, Siheng Li, Junqi Ma, Tao Gong, Yu Fu.
+  <br>
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
+      Arterial elasticity is the capability of the arteries to dilate and constrict in response to fluctuations in blood pressure as the heart circulates blood throughout the body, serving as an important indicator for assessing arterial health. However, conventional medical detection methods are often complex, costly, and require direct contact between the user's skin and the device, making them impractical for regular monitoring. In this paper, we propose a contactless single-site arterial elasticity assessment approach using ultra-wideband (UWB) signals, where we estimate the brachial-ankle pulse wave velocity, a key indicator of arterial health, by analyzing the UWB signals reflected off the back of a subject sitting still. Specifically, we first propose preprocessing methods to reduce noise in the received UWB signals, and then design a deep generative adversarial network to generate pulse wave signals from these UWB signals. The generated signals are of high quality and fidelity, exhibiting characteristics of vasoconstriction and vasodilation. Further, we analyze the pulse wave and extract the features related to arterial elasticity from the generated pulse waves. Finally, we employ random forest regression to predict pulse transit time and a body-height based method to estimate the length of the pulse transit path, so as to achieve single-site arterial elasticity assessment. We build the corresponding system named RF-AE and conduct extensive experiments to evaluate its performance. The experimental results show that RF-AE can accurately predict the arterial elasticity of users.
+    </div>
+  </details>
+
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '24</span>
+  [Hypnos: A contactless sleep stage monitoring system using UWB signals](https://dl.acm.org/doi/abs/10.1145/3678581)
+  <br>
+  Siheng Li, Beihong Jin, Fusang Zhang, **<u>Zhi Wang</u>**, Junqi Ma, Xiaoyong Ren, Haiqin Liu.
+  <br>
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
+      As a fundamental physiological process, sleep plays a vital role in human health. High-quality sleep requires a reasonable distribution of sleep duration over different sleep stages. Recently, contactless solutions have been used for in-home sleep stage monitoring via wireless signals as it enables monitoring daily sleep in a non-intrusive manner. However, various factors, such as the subject's physiological characteristics during sleep, the subject's health status, and even the sleep environment, pose challenges to wireless signal analysis. In this paper, we propose Hypnos, a contactless sleep monitoring system that identifies different sleep stages using an ultra-wideband (UWB) device. Hypnos enables automated bed localization and extracts signals containing coarse-grained body movements and fine-grained chest movements due to breathing and heartbeat from the subject, which acts as the preparation step for sleep staging. The key to our system is a seq2seq deep learning model, which adopts an attention-based sequence encoder to learn the patterns and transitions within and between sleep epochs and combines with contrastive learning to improve the generalizability of the encoder. Particularly, we incorporate sleep apnea detection as an auxiliary task into the model to reduce the interference of sleep apnea with sleep staging. Moreover, we design a two-step training for better adaptation of subjects with different severities of sleep disorders. We conduct extensive experiments on 100 subjects, including healthy individuals and patients with sleep disorders, and the experimental results show that Hypnos achieves excellent performance in multi-stage sleep classification (including 5-stage sleep classification), and outperforms other baseline methods.    </div>
+  </details>
+  
 - <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '24</span>
   [Push the limit of highly accurate ranging on commercial uwb devices](https://dl.acm.org/doi/abs/10.1145/3659602)
   <br>
