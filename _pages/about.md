@@ -136,7 +136,7 @@ Selected Publications 📑
   [Your Smart Speaker Can" Hear" Your Heartbeat!](https://dl.acm.org/doi/abs/10.1145/3432237)
   <br>
   
-  Fusang Zhang<sup>*</sup>, **<u>Zhi Wang</u>**<sup>*</sup>, Beihong Jin, Jie Xiong, Daqing Zhang.
+  Fusang Zhang\textsuperscript{*}, **<u>Zhi Wang</u>**\textsuperscript{*}, Beihong Jin, Jie Xiong, Daqing Zhang.
   <br>
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
   <br>
