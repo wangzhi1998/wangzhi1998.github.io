@@ -12,7 +12,7 @@ Bio 👨‍🎓
 ======
 I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. Beihong Jin. I received my B.S. degree from Beijing Jiaotong University in 2020.
 
-- **SenSys '26** &nbsp;
+- <span style="background-color: #f0f8fb; color: #2d7ff9; padding: 2px 8px; border-radius: 4px; font-weight: 600;">SenSys '26</span>
   [WiRainbow: Single-Antenna Direction-Aware Wi-Fi Sensing via Dispersion Effect](https://example.com/paper1)
   <br>
   Zhaoxin Chang\*, Shuguang Xiao\*, Fusang Zhang, Xujun Ma, Badii Jouaber, Qingfeng Zhang, Daqing Zhang.
