@@ -22,12 +22,20 @@ News 🔥
 
 Selected Publications 📑
 ======
-- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '25</span>
-  [RF-AE: Single-site Arterial Elasticity Estimation Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3729460)
-  <br>
-  **<u>Zhi Wang</u>**, Beihong Jin, Yuhui Chen, Fusang Zhang, Siheng Li, Junqi Ma, Tao Gong, Yu Fu.
-  <br>
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+- <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 10px;">
+  <div style="flex: 1; min-width: 300px;">
+    <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '25</span>
+    [RF-AE: Single-site Arterial Elasticity Estimation Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3729460)
+    <br>
+    **<u>Zhi Wang</u>**, Beihong Jin, Yuhui Chen, Fusang Zhang, Siheng Li, Junqi Ma, Tao Gong, Yu Fu.
+    <br>
+    *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+  </div>
+
+  <div style="width: 220px; flex-shrink: 0;">
+    <img src="profile.png" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
   <br>
   <details style="cursor: pointer;margin-bottom: 1em;">
     <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
