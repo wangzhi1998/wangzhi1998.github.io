@@ -12,6 +12,7 @@ Bio 👨‍🎓
 ======
 I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. Beihong Jin and Prof. Fusang Zhang. I received my B.S. degree from Beijing Jiaotong University in 2020.
 
+I am interested in wireless sensing and mobile computing for cardiovascular health monitoring. More recently, I focus on the privacy and security challenges within wireless sensing.
 
 
 News 🔥
