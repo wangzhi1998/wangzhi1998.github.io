@@ -164,7 +164,7 @@ Selected Publications 📑
   
 Teaching Assistant
 ======
-- Data Structure, University of Chinese Academy of Sciences
+- **Data Structure**, University of Chinese Academy of Sciences, Spring 2023-2025
 
 
 
