@@ -36,6 +36,20 @@ Selected Publications 📑
     </div>
   </details>
 
+- <span style="background-color: #b58900; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '25</span>
+  [MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing](https://ieeexplore.ieee.org/abstract/document/11044652/)
+  <br>
+  Junqi Ma, Fusang Zhang, Beihong Jin, Siheng Li, **<u>Zhi Wang</u>**.
+  <br>
+  *IEEE Conference on Computer Communications (INFOCOM)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #b58900; font-size: 0.95em; color: #444;">
+      Recent years have seen rapid advancements in ultra-wideband (UWB)-based localization systems. However, most existing solutions offer only centimeter-level accuracy and support a limited number of UWB tags, which fails to meet the growing demands of emerging sensing applications (e.g., virtual reality). This paper presents MULoc, the first system that can localize an unlimited number of UWB tags with millimeter-level accuracy. At the core of MULoc is the innovative use of UWB phase, which can provide finer-grained distance measurement than traditional time-of-f1ight (ToF) estimates. To accurately obtain phase estimates from unsynchronized devices, we introduce a novel localization scheme called anchor overhearing (AO) and eliminate raw signal errors through a signal-difference-based technique. For precise tag localization, we resolve phase ambiguity by combining a fusion-based filtering method and frequency hopping. We implement MULoc on commercial UWB modules. Extensive experiments demonstrate that our system achieves a median localization error of 0.47 mm and 90-th percentile error of 1.02 cm, reducing the error of traditional method by 91.12%.
+    </div>
+  </details>
+
 - <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '24</span>
   [Hypnos: A contactless sleep stage monitoring system using UWB signals](https://dl.acm.org/doi/abs/10.1145/3678581)
   <br>
