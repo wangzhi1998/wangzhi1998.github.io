@@ -133,7 +133,7 @@ Selected Publications 📑
     </div>
   </details>
 
-- <span style="background-color: #2e7d32; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">Globecom '21</span>
+- <span style="background-color: #2e7d32; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">GLOBECOM '21</span>
   [Exploiting passive beamforming of smart speakers to monitor human heartbeat in real time](https://ieeexplore.ieee.org/abstract/document/9685922/)
   <br>
   **<u>Zhi Wang</u>**, Fusang Zhang, Siheng Li, Beihong Jin.
